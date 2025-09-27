@@ -11,6 +11,7 @@ Please check the following for license and copyright information:
 Specifically:
 
  - https://edassets.org/static/img/settlements/surface_port.svg
+ - https://edassets.org/static/img/powers/pranav-antal.svg
  - https://github.com/pluginpatch/fleet-carrier-icons/blob/main/svg/fleetcarrier.svg                                                                                         
  - https://github.com/mhwlng/dashboard-elite/blob/master/dashboard-elite/wwwroot/img/buttons/combat.svg
  - https://github.com/mhwlng/dashboard-elite/blob/master/dashboard-elite/wwwroot/img/buttons/system.svg
